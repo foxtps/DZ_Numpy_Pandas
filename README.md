@@ -1,1 +1,1 @@
-# DZ_Numpy_Pandas
+# Домашняя работа по Numpy, Pandas
